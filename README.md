@@ -14,13 +14,13 @@ Much like Google Keep, I would like to create a board (home page) that allows th
 ![Creating a New Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/73279f4bed379f8936418c89849bf7776919cee4/CreateAccount_WF.PNG)
 
 ### Log Into Account - DRAFT
-
+![Log Into Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/HomePage_WF.PNG)
 ### Home Dashboard - Sticky Notes View - DRAFT
-
+![Home Dashboard Sticky View](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/ListView_WF.PNG)
 ### Home Dashboard - List View - DRAFT
-
+![Home Dashboard List View](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/LogIn_WF.PNG)
 ### Create/Edit Note View - DRAFT
-
+![Create Edit Note](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/SelectedNote_WF.png)
 
 # User Stories
 
