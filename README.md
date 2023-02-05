@@ -11,19 +11,21 @@ Much like Google Keep, I would like to create a board (home page) that allows th
 
 # WireFrames
 ### Creating a New Account - DRAFT
-![Creating a New Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/73279f4bed379f8936418c89849bf7776919cee4/CreateAccount_WF.PNG)
-
+![Creating a New Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/73279f4bed379f8936418c89849bf7776919cee4/CreateAccount_WF.PNG) 
 ### Log Into Account - DRAFT
-![Log Into Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/HomePage_WF.PNG)
+![Log Into Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/LogIn_WF.PNG)
 ### Home Dashboard - Sticky Notes View - DRAFT
-![Home Dashboard Sticky View](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/ListView_WF.PNG)
+![Home Dashboard Sticky View](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/HomePage_WF.PNG)
 ### Home Dashboard - List View - DRAFT
-![Home Dashboard List View](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/LogIn_WF.PNG)
+![Home Dashboard List View](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/ListView_WF.PNG)
 ### Create/Edit Note View - DRAFT
 ![Create Edit Note](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/SelectedNote_WF.png)
 
-# User Stories
+# User Stories and Use Cases
+
+User Stories and Use Cases include the following actions:  Creating an account, Logging into an exisiting account, Creating a new note, Editing an existing note, Creating a file, Moving a note to the Archive, and Deleting a note.
+
+[User Stories can be found here]()
 
 
-
-# Use Cases
+[Use Cases]()
