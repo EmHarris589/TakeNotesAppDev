@@ -28,7 +28,7 @@ Much like Google Keep, I would like to create a board (home page) that allows th
 # Project Requirements Table
 
 |ID Number| Requirement|
-| --- | --- |
+| :---: | --- |
 | 001 | The software shall allow the user to create a new account using an email address and password of their choice so long as it meets criteria |
 | 002 | The software shall allow the user to access their created account using the email and password chosen at the time of creation | 
 | 003 | The software shall, upon log in, display all of the users previous, non-archived notes and reminders |
