@@ -4,14 +4,15 @@
 1. Overview
    - a) Purpose
    - b) Function
-2. Solution Architect Diagram
-3. WireFrames
+2. Project Requirements Table
+3. Solution Architect Diagram
+4. WireFrames
    - a) Creating a New Account
    - b) Log into Account
    - c) Home Dashboard - Sticky Notes View
    - d) Home Dashboard - List View
    - e) Create Edit Note
-4. User Stories and Use Cases
+5. User Stories and Use Cases
    - a) User Stories
    - b) Use Cases
    - c) Use Case Diagram
@@ -23,6 +24,16 @@ The purpose of the TakeNotes application will be to keep simple notes, images, a
 
 ### Function
 Much like Google Keep, I would like to create a board (home page) that allows the user to click on an icon and create a new note.  This home page would display all notes relevant to the user.  Notes could have color background options for grouping, and new notes can be text or image.  Notes could also be organized by label, files, or archive.  Google Keep currently only organizes by label - which will display groups of notes flagged with the same label; and archive – a file notes can be sent when the user wants to remove them from the main board.  There is however, no current option for creating files from the main board or within the archive, which I would like to add in this application.  Users will have the ability to add or delete notes as needed.  Additional features that I would also like to include would be bullet list creation, alerts, and the ability to send notes via email.
+
+# Project Requirements Table
+
+|ID Number| Requirement|
+| --- | --- |
+| 001 | The software shall allow the user to create a new account using an email address and password of their choice so long as it meets criteria |
+| 002 | The software shall allow the user to access their created account using the email and password chosen at the time of creation | 
+| 003 | The software shall, upon log in, display all of the users previous, non-archived notes and reminders |
+| 004 | The software shall allow the user to create a new note when clicking on the appropriate icon |
+| 005 | The software shall allow the user to alter their dashboard display view when clicking on the appropriate icon. Users shall be allowed to toggle between note and list view |
 
 # Solution Architect Diagram
 As this is a very simple application, the actors would mainly consist of: the user, the database, and potentially the site administrator.
