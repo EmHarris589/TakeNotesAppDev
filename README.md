@@ -34,6 +34,10 @@ Much like Google Keep, I would like to create a board (home page) that allows th
 | 003 | The software shall, upon log in, display all of the users previous, non-archived notes and reminders |
 | 004 | The software shall allow the user to create a new note when clicking on the appropriate icon |
 | 005 | The software shall allow the user to alter their dashboard display view when clicking on the appropriate icon. Users shall be allowed to toggle between note and list view |
+| 006 | The software shall allow the user to create new folders for sorting and storing notes away from the main dashboard by clicking on the appropriate icon |
+| 007 | The software shall allow users to move notes from folders to dashboard to archive freely by clicking on the appropriate icon |
+| 008 | The software shall allow users to delete a note by clicking on the appropriate icon, giving a warning message before deletion |
+
 
 # Solution Architect Diagram
 As this is a very simple application, the actors would mainly consist of: the user, the database, and potentially the site administrator.
