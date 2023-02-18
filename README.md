@@ -1,5 +1,21 @@
 # TakeNotesAppDev
 
+# Table of Contents
+1. Overview
+   a) Purpose
+   b) Function
+2. Solution Architect Diagram
+3. WireFrames
+   a) Creating a New Account
+   b) Log into Account
+   c) Home Dashboard - Sticky Notes View
+   d) Home Dashboard - List View
+   e) Create Edit Note
+4. User Stories and Use Cases
+   a) User Stories
+   b) Use Cases
+   c) Use Case Diagram
+
 # Overview
 
 ### Purpose
