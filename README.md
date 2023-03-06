@@ -16,6 +16,10 @@
    - a) User Stories
    - b) Use Cases
    - c) Use Case Diagram
+6. Database Design
+   - a) Chen Model Entity Relationship Diagram
+   - b) UML Class Diagram
+
 
 # Overview
 
