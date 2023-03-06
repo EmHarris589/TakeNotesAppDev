@@ -72,3 +72,11 @@ User Stories and Use Cases include the following actions:  Creating an account, 
 ### Use Case Diagram
 ![Use Cases Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/a8189b43b04e7d6259da17af9836cac735eee8c4/TakeNotes_UseCaseDiagram.PNG)
 
+## Database Design
+
+### Chen Model Entity Relationship Diagram
+![ChenERD](https://github.com/EmHarris589/TakeNotesAppDev/blob/a8189b43b04e7d6259da17af9836cac735eee8c4/TakeNotes_UseCaseDiagram.PNG)
+
+### UML Class Diagram
+![UML Class Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/a8189b43b04e7d6259da17af9836cac735eee8c4/TakeNotes_UseCaseDiagram.PNG)
+
