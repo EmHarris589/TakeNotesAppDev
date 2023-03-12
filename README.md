@@ -4,7 +4,7 @@
 1. [Overview](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
    - a) [Purpose](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Purpose)
    - b) [Function](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Function)
-2. [Project Requirements Table](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#ProjectRequirementsTable)
+2. [Project Requirements Table](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Project Requirements Table)
 3. [Solution Architect Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#SolutionArchitectDiagram)
 4. [WireFrames](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#WireFrames)
    - a) [Creating a New Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#CreatingaNewAccount)
