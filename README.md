@@ -1,7 +1,7 @@
 # TakeNotesAppDev
 
 # Table of Contents
-1. [Overview](https://github.com/EmHarris589/TakeNotesAppDev/edit/main/README.md#Overview)
+1. [Overview](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md)#Overview)
    - a) Purpose
    - b) Function
 2. Project Requirements Table
