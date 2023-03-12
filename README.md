@@ -2,23 +2,23 @@
 
 # Table of Contents
 1. [Overview](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
-   - a) Purpose
-   - b) Function
-2. Project Requirements Table
-3. Solution Architect Diagram
-4. WireFrames
-   - a) Creating a New Account
-   - b) Log into Account
-   - c) Home Dashboard - Sticky Notes View
-   - d) Home Dashboard - List View
-   - e) Create Edit Note
-5. User Stories and Use Cases
-   - a) User Stories
-   - b) Use Cases
-   - c) Use Case Diagram
-6. Database Design
-   - a) Chen Model Entity Relationship Diagram
-   - b) UML Class Diagram
+   - a) [Purpose](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Purpose)
+   - b) [Function](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Function)
+2. [Project Requirements Table](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#ProjectRequirementsTable)
+3. [Solution Architect Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#SolutionArchitectDiagram)
+4. [WireFrames](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#WireFrames)
+   - a) [Creating a New Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#CreatingaNewAccount)
+   - b) [Log into Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#LogIntoAccount)
+   - c) [Home Dashboard - Sticky Notes View](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#HomeDashboard-StickyNotesView)
+   - d) [Home Dashboard - List View](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#HomeDashboard-ListView)
+   - e) [Create Edit Note](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
+5. [User Stories and Use Cases](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
+   - a) [User Stories](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
+   - b) [Use Cases](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
+   - c) [Use Case Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
+6. [Database Design](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
+   - a) [Chen Model Entity Relationship Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
+   - b) [UML Class Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
 
 
 # Overview
