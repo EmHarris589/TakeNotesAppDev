@@ -46,10 +46,18 @@ Much like Google Keep, I would like to create a board (home page) that allows th
 | 007 | The software shall allow users to move notes from folders to dashboard to archive freely by clicking on the appropriate icon |
 | 008 | The software shall allow users to delete a note by clicking on the appropriate icon, giving a warning message before deletion |
 
+<br>
+<br>
+[Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
 
 # Solution Architect Diagram
 As this is a very simple application, the actors would mainly consist of: the user, the database, and potentially the site administrator.
 ![Solution Architect Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/8b2fa0768b9fa904a6838ac12f76b9e6db748da7/TakeNotes_SolutionArchitectDiagram.PNG)
+
+<br>
+<br>
+[Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
+<br>
 
 # WireFrames
 ### Creating a New Account - DRAFT
@@ -67,24 +75,43 @@ This is a second option for viewing the landing/home page.
 ### Create/Edit Note View - DRAFT
 Users would view this screen when creating or editing a note.
 ![Create Edit Note](https://github.com/EmHarris589/TakeNotesAppDev/blob/dbe4437830441d543ba07f1ddc70becbb039d447/SelectedNote_WF.png)
+<br>
+<br>
+[Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
+<br>
 
 # User Stories and Use Cases
 User Stories and Use Cases include the following actions:  Creating an account, Logging into an exisiting account, Creating a new note, Editing an existing note, Creating a file, Moving a note to the Archive, and Deleting a note.
 
 ### User Stories
 [User Stories can be found here](https://github.com/EmHarris589/TakeNotesAppDev/blob/a8189b43b04e7d6259da17af9836cac735eee8c4/TakeNotes_UserStories.pdf)
-
+<br>
+<br>
+[Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
+<br>
 ### Use Cases
 [Use Cases can be found here](https://github.com/EmHarris589/TakeNotesAppDev/blob/a8189b43b04e7d6259da17af9836cac735eee8c4/TakeNotes_UseCases.pdf)
-
+<br>
+<br>
+[Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
+<br>
 ### Use Case Diagram
 ![Use Cases Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/a8189b43b04e7d6259da17af9836cac735eee8c4/TakeNotes_UseCaseDiagram.PNG)
-
+<br>
+<br>
+[Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
+<br>
 ## Database Design
 
 ### Chen Model Entity Relationship Diagram
 ![ChenERD](https://github.com/EmHarris589/TakeNotesAppDev/blob/2f8108e5857ad460ace8452761d12a8a59346aab/TakeNotes_ERD_ChenNotation.PNG)
-
+<br>
+<br>
+[Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
+<br>
 ### UML Class Diagram
 ![UML Class Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/5ade8dc13405c00e8402c72f5a2bc5cd8b8ebff0/TakeNotes_ClassDiagram.PNG)
-
+<br>
+<br>
+[Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
+<br>
