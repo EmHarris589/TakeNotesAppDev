@@ -45,7 +45,7 @@ Much like Google Keep, I would like to create a board (home page) that allows th
 | 006 | The software shall allow the user to create new folders for sorting and storing notes away from the main dashboard by clicking on the appropriate icon |
 | 007 | The software shall allow users to move notes from folders to dashboard to archive freely by clicking on the appropriate icon |
 | 008 | The software shall allow users to delete a note by clicking on the appropriate icon, giving a warning message before deletion |
-
+  
 <br>
 <br>
 [Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
