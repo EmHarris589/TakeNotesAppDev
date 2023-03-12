@@ -49,6 +49,7 @@ Much like Google Keep, I would like to create a board (home page) that allows th
 <br>
 <br>
 [Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
+<br>
 
 # Solution Architect Diagram
 As this is a very simple application, the actors would mainly consist of: the user, the database, and potentially the site administrator.
