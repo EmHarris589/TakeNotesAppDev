@@ -11,14 +11,14 @@
    - b) [Log into Account](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Log-Into-Account)
    - c) [Home Dashboard - Sticky Notes View](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Home-Dashboard-Sticky-Notes-View)
    - d) [Home Dashboard - List View](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Home-Dashboard-List-View)
-   - e) [Create Edit Note](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
-5. [User Stories and Use Cases](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
-   - a) [User Stories](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
-   - b) [Use Cases](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
-   - c) [Use Case Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
-6. [Database Design](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
-   - a) [Chen Model Entity Relationship Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
-   - b) [UML Class Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Overview)
+   - e) [Create Edit Note](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Create-Edit-Note)
+5. [User Stories and Use Cases](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#User-Stories-and-Use-Cases)
+   - a) [User Stories](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#User-Stories)
+   - b) [Use Cases](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Use-Cases)
+   - c) [Use Case Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Use-Case-Diagram)
+6. [Database Design](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Database-Design)
+   - a) [Chen Model Entity Relationship Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Chen-Model-Entity-Relationship-Diagram)
+   - b) [UML Class Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#UML-Class-Diagram)
 
 
 # Overview
