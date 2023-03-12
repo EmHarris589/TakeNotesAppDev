@@ -46,8 +46,7 @@ Much like Google Keep, I would like to create a board (home page) that allows th
 | 007 | The software shall allow users to move notes from folders to dashboard to archive freely by clicking on the appropriate icon |
 | 008 | The software shall allow users to delete a note by clicking on the appropriate icon, giving a warning message before deletion |  
 
-<br>
-<br>
+
 [Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
 <br>
 
@@ -55,8 +54,7 @@ Much like Google Keep, I would like to create a board (home page) that allows th
 As this is a very simple application, the actors would mainly consist of: the user, the database, and potentially the site administrator.
 ![Solution Architect Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/8b2fa0768b9fa904a6838ac12f76b9e6db748da7/TakeNotes_SolutionArchitectDiagram.PNG)
 
-<br>
-<br>
+
 [Back to Top](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Table-of-Contents)
 <br>
 
