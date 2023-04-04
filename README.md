@@ -125,6 +125,11 @@ User Stories and Use Cases include the following actions:  Creating an account, 
 ![Note Class Code](https://github.com/EmHarris589/TakeNotesAppDev/blob/161e0f833faae31b5cdc287ff6efd771ef45386a/Note.cs_1of2.PNG)
 (https://github.com/EmHarris589/TakeNotesAppDev/blob/020918b7178174e7edc9cd190eadbac1a22f8fa6/note.cs_2of2.PNG)
 
-###
-![Note Controller Code](
+### Note Controller Code
+![Note Controller Code](https://github.com/EmHarris589/TakeNotesAppDev/blob/46e69496b02a4f24122424de3c28dd004632d8c4/NoteController.PNG)
+
+### HTTP Response
+![http Response] 
+
+
 
