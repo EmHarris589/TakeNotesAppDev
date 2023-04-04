@@ -20,7 +20,7 @@
    - a) [Chen Model Entity Relationship Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Chen-Model-Entity-Relationship-Diagram)
    - b) [UML Class Diagram](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#UML-Class-Diagram)
 7. [Data Access Layer](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Data-Access-Layer)
-   - a) [Note Class Code] (https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Note-Class-Code)
+   - a) [Note Class Code](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Note-Class-Code)
    - b) [Note Controller](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#Note-Controller)
    - c) [http Response](https://github.com/EmHarris589/TakeNotesAppDev/blob/main/README.md#http-Response)
 
@@ -123,7 +123,7 @@ User Stories and Use Cases include the following actions:  Creating an account, 
 
 ### Note Class Code
 ![Note Class Code](https://github.com/EmHarris589/TakeNotesAppDev/blob/161e0f833faae31b5cdc287ff6efd771ef45386a/Note.cs_1of2.PNG)
-(https://github.com/EmHarris589/TakeNotesAppDev/blob/020918b7178174e7edc9cd190eadbac1a22f8fa6/note.cs_2of2.PNG)
+![Note Class Code2](https://github.com/EmHarris589/TakeNotesAppDev/blob/020918b7178174e7edc9cd190eadbac1a22f8fa6/note.cs_2of2.PNG)
 
 ### Note Controller Code
 ![Note Controller Code](https://github.com/EmHarris589/TakeNotesAppDev/blob/46e69496b02a4f24122424de3c28dd004632d8c4/NoteController.PNG)
